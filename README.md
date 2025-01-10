@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Sobre mí  
-Soy **Tecnico y Prograamador junior** con habilidades en análisis de sistemas y análisis de datos.  
+Soy **Tecnico y Programador junior** con habilidades en análisis de sistemas y análisis de datos.  
 Tengo experiencia en proyectos académicos utilizando tecnologías como **Java**, **Spring Boot**, **MySQL** y **PostgreSQL**.  
 
 Mi pasión se centra en el desarrollo de soluciones prácticas y efectivas.  
