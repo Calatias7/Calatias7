@@ -1,16 +1,23 @@
-## Hi there 👋
+# Víctor Méndez
 
-<!--
-**Calatias7/Calatias7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Sobre mí
+Soy Víctor Méndez, un apasionado de los videojuegos. Me encanta explorar nuevos mundos virtuales y disfrutar de las experiencias que ofrecen los videojuegos como medio de entretenimiento y arte.
 
-Here are some ideas to get you started:
+## 💻 Habilidades técnicas
+- **Lenguajes de programación:**
+  - Java
+  - JavaScript
+  - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos
+- Seguir desarrollando mis habilidades en programación.
+- Participar en proyectos que combinen mi pasión por los videojuegos con mis conocimientos técnicos.
+
+## 🌟 Intereses
+- Desarrollo de videojuegos.
+- Tecnologías innovadoras.
+- Creación de soluciones creativas a problemas complejos.
+
+---
+
+> "La programación no es solo un trabajo, es una forma de dar vida a las ideas."
