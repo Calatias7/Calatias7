@@ -35,7 +35,7 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 ![Hacking Ético y Ciberseguridad](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)  
-
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  
 
 ---
 
