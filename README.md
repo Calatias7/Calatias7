@@ -43,7 +43,7 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 | Idioma    | Nivel              |  
 |-----------|--------------------|  
 | Español   | ⭐⭐⭐⭐⭐ (Nativo)    |  
-| Inglés    | ⭐⭐⭐⭐ (Avanzado)   |  
+| Inglés    | ⭐⭐⭐ (intermedio)   |  
 
 ---
 
