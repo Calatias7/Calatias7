@@ -1,4 +1,4 @@
-![Header](Banner.png)
+https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png![Header](Banner.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Víctor%20Méndez-black?style=flat-square&logo=github)](https://github.com/Calatias7)  
 
@@ -33,10 +33,8 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 - ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) **Oracle**  
 
 ### Herramientas  
-- ![Excel](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-excel-microsoft-office-flat-flat-juicy-fish.png) **Excel**  
-- ![Word](https://img.icons8.com/ios-filled/50/2B579A/microsoft-word.png) **Word**  
-- ![Obsidian](https://img.icons8.com/color/48/000000/obsidian.png) **Obsidian**  
-- ![Hacking Ético](https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-hacking-cyber-security-icongeek26-flat-icongeek26.png) **Hacking Ético y Ciberseguridad**
+[Obsidian](https://img.icons8.com/color/48/000000/obsidian.png) **Obsidian**  
+
 
 ---
 
