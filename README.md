@@ -60,4 +60,10 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 
 ---
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Calatias7&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Calatias7&layout=compact&theme=radical)
+
+---
+
 > "La programación no es solo un trabajo, es una forma de dar vida a las ideas."
