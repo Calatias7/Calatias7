@@ -40,10 +40,10 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 ---
 
 ## 🌍 Idiomas  
-| Idioma    | Nivel              |  
-|-----------|--------------------|  
-| Español   | ⭐⭐⭐⭐⭐ (Nativo)    |  
-| Inglés    | ⭐⭐⭐ (intermedio)   |  
+| Idioma    | 
+|-----------|
+| Español   |
+| Inglés    |
 
 ---
 
