@@ -1,6 +1,4 @@
-
-![Uploading github-header-image (1).png…]()
-
+![Header](github-header-image.png)
 [![GitHub](https://img.shields.io/badge/GitHub-Víctor%20Méndez-black?style=flat-square&logo=github)](https://github.com/Calatias7)  
 
 ---
