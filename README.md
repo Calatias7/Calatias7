@@ -14,28 +14,29 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 ---
 
 
-## 💻 Habilidades técnicas  
-### Lenguajes de programación  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
+## 💻 Habilidades Técnicas  
 
-### Frameworks y tecnologías  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+### Lenguajes de Programación  
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) **Java**  
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) **JavaScript**  
+- ![Python](https://img.icons8.com/color/48/000000/python--v1.png) **Python**  
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**  
 
-### Bases de datos  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![DB2](https://img.shields.io/badge/DB2-0033A0?style=flat-square&logo=ibm&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
+### Frameworks y Tecnologías  
+- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**  
+- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) **Angular**  
 
-### Herramientas y otros conocimientos  
-![Hacking Ético y Ciberseguridad](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)  
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)  
+### Bases de Datos  
+- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) **PostgreSQL**  
+- ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL**  
+- ![DB2](https://img.icons8.com/ios-filled/50/0033A0/ibm.png) **DB2**  
+- ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) **Oracle**  
+
+### Herramientas  
+- ![Excel](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-excel-microsoft-office-flat-flat-juicy-fish.png) **Excel**  
+- ![Word](https://img.icons8.com/ios-filled/50/2B579A/microsoft-word.png) **Word**  
+- ![Obsidian](https://img.icons8.com/color/48/000000/obsidian.png) **Obsidian**  
+- ![Hacking Ético](https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-hacking-cyber-security-icongeek26-flat-icongeek26.png) **Hacking Ético y Ciberseguridad**
 
 ---
 
