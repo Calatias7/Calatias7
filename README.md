@@ -1,4 +1,4 @@
-https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png![Header](Banner.png)
+![Header](Banner.png)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Víctor%20Méndez-black?style=flat-square&logo=github)](https://github.com/Calatias7)  
 
