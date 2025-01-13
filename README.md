@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Víctor%20Méndez-black?style=flat-square&logo=github)](https://github.com/Calatias7)  
 
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=Calatias7&color=brightgreen&style=flat-square)
 ---
 
 ## 🎯 Sobre mí  
