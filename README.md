@@ -29,13 +29,11 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 ### Bases de Datos  
 - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) **PostgreSQL**  
 - ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL**  
-- ![DB2](https://img.icons8.com/ios-filled/50/0033A0/ibm.png) **DB2**  
-- ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) **Oracle**  
+- ![DB2](https://img.icons8.com/ios-filled/50/0033A0/ibm.png)
+- ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)  
 
-### Herramientas  
-[Obsidian](https://img.icons8.com/color/48/000000/obsidian.png) **Obsidian**  
-
-
+### Herramientas    
+- ![Obsidian](https://img.icons8.com/color/48/000000/obsidian.png)
 ---
 
 ## 🌍 Idiomas  
