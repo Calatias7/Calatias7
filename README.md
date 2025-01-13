@@ -66,5 +66,8 @@ Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica*
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Calatias7&layout=compact&theme=radical)
 
 ---
+<a href="https://app.daily.dev/calatias"><img src="https://api.daily.dev/devcards/v2/1XnybPIUupWTpgBGwN2Ci.png?type=default&r=drw" width="356" alt="Victor Mendez's Dev Card"/></a>
+---
+
 
 > "La programación no es solo un trabajo, es una forma de dar vida a las ideas."
