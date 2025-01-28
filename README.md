@@ -12,6 +12,10 @@ Tengo experiencia en proyectos académicos utilizando tecnologías como **Java**
 Mi pasión se centra en el desarrollo de soluciones prácticas y efectivas.  
 Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica** de mis conocimientos.  
 
+Objetivo: Convertir mi pasión por la tecnología en soluciones innovadoras que impacten positivamente en el mundo.
+
+En mi tiempo libre, disfruto jugando videojuegos, explorando nuevas tecnologías, y trabajando en proyectos que me permitan unir creatividad con funcionalidad.
+
 ---
 
 
