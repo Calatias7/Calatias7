@@ -18,44 +18,44 @@ En mi tiempo libre, disfruto jugando videojuegos, explorando nuevas tecnologías
 
 ---
 <table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: center;">
-  <thead>
-    <tr>
-      <th style="border: 2px solid #ddd; padding: 10px; background-color: #f4f4f4;">Lenguajes de Programación</th>
-      <th style="border: 2px solid #ddd; padding: 10px; background-color: #f4f4f4;">Frameworks y Tecnologías</th>
-      <th style="border: 2px solid #ddd; padding: 10px; background-color: #f4f4f4;">Bases de Datos</th>
-      <th style="border: 2px solid #ddd; padding: 10px; background-color: #f4f4f4;">Herramientas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- Lenguajes de Programación -->
-      <td style="border: 2px solid #ddd; padding: 20px;">
-        <p><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"> <strong>Java</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"> <strong>JavaScript</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"> <strong>Python</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> <strong>C++</strong></p>
-      </td>
+  <!-- Lenguajes de Programación -->
+  <tr>
+    <td style="border: 2px solid #ddd; padding: 20px;">
+      <h3>Lenguajes de Programación</h3>
+      <p><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"> <strong>Java</strong></p>
+      <p><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"> <strong>JavaScript</strong></p>
+      <p><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"> <strong>Python</strong></p>
+      <p><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> <strong>C++</strong></p>
+    </td>
+  </tr>
 
-      <!-- Frameworks y Tecnologías -->
-      <td style="border: 2px solid #ddd; padding: 20px;">
-        <p><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"> <strong>Spring Boot</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"> <strong>Angular</strong></p>
-      </td>
+  <!-- Frameworks y Tecnologías -->
+  <tr>
+    <td style="border: 2px solid #ddd; padding: 20px;">
+      <h3>Frameworks y Tecnologías</h3>
+      <p><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"> <strong>Spring Boot</strong></p>
+      <p><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"> <strong>Angular</strong></p>
+    </td>
+  </tr>
 
-      <!-- Bases de Datos -->
-      <td style="border: 2px solid #ddd; padding: 20px;">
-        <p><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> <strong>PostgreSQL</strong></p>
-        <p><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"> <strong>MySQL</strong></p>
-        <p><img src="https://img.icons8.com/ios-filled/50/0033A0/ibm.png" alt="DB2"> <strong>DB2</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"> <strong>Oracle</strong></p>
-      </td>
+  <!-- Bases de Datos -->
+  <tr>
+    <td style="border: 2px solid #ddd; padding: 20px;">
+      <h3>Bases de Datos</h3>
+      <p><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> <strong>PostgreSQL</strong></p>
+      <p><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"> <strong>MySQL</strong></p>
+      <p><img src="https://img.icons8.com/ios-filled/50/0033A0/ibm.png" alt="DB2"> <strong>DB2</strong></p>
+      <p><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"> <strong>Oracle</strong></p>
+    </td>
+  </tr>
 
-      <!-- Herramientas -->
-      <td style="border: 2px solid #ddd; padding: 20px;">
-        <p><img src="https://img.icons8.com/color/48/000000/obsidian.png" alt="Obsidian"> <strong>Obsidian</strong></p>
-      </td>
-    </tr>
-  </tbody>
+  <!-- Herramientas -->
+  <tr>
+    <td style="border: 2px solid #ddd; padding: 20px;">
+      <h3>Herramientas</h3>
+      <p><img src="https://img.icons8.com/color/48/000000/obsidian.png" alt="Obsidian"> <strong>Obsidian</strong></p>
+    </td>
+  </tr>
 </table>
 
  ---
