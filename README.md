@@ -18,28 +18,41 @@ En mi tiempo libre, disfruto jugando videojuegos, explorando nuevas tecnologías
 
 ---
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; font-family: Arial, sans-serif;">
 
-## 💻 Habilidades Técnicas  
+  <!-- Lenguajes de Programación -->
+  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; text-align: center;">
+    <h3 style="margin-bottom: 10px;">Lenguajes de Programación</h3>
+    <p><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"> <strong>Java</strong></p>
+    <p><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"> <strong>JavaScript</strong></p>
+    <p><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"> <strong>Python</strong></p>
+    <p><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> <strong>C++</strong></p>
+  </div>
 
-### Lenguajes de Programación  
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) **Java**  
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) **JavaScript**  
-- ![Python](https://img.icons8.com/color/48/000000/python--v1.png) **Python**  
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**  
+  <!-- Frameworks y Tecnologías -->
+  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; text-align: center;">
+    <h3 style="margin-bottom: 10px;">Frameworks y Tecnologías</h3>
+    <p><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"> <strong>Spring Boot</strong></p>
+    <p><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"> <strong>Angular</strong></p>
+  </div>
 
-### Frameworks y Tecnologías  
-- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring Boot**  
-- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) **Angular**  
+  <!-- Bases de Datos -->
+  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; text-align: center;">
+    <h3 style="margin-bottom: 10px;">Bases de Datos</h3>
+    <p><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> <strong>PostgreSQL</strong></p>
+    <p><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"> <strong>MySQL</strong></p>
+    <p><img src="https://img.icons8.com/ios-filled/50/0033A0/ibm.png" alt="DB2"> <strong>DB2</strong></p>
+    <p><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"> <strong>Oracle</strong></p>
+  </div>
 
-### Bases de Datos  
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) **PostgreSQL**  
-- ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) **MySQL**  
-- ![DB2](https://img.icons8.com/ios-filled/50/0033A0/ibm.png) **DB2**  
-- ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) **Oracle**  
+  <!-- Herramientas -->
+  <div style="border: 2px solid #ddd; border-radius: 8px; padding: 20px; text-align: center;">
+    <h3 style="margin-bottom: 10px;">Herramientas</h3>
+    <p><img src="https://img.icons8.com/color/48/000000/obsidian.png" alt="Obsidian"> <strong>Obsidian</strong></p>
+  </div>
 
-### Herramientas
-- ![Obsidian](https://img.icons8.com/color/48/000000/obsidian.png) **Obsidian**  
----
+</div>
+
 
 ## 🌍 Idiomas  
 | Idioma    | 
