@@ -1,92 +1,106 @@
 ![Header](Banner.png)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Víctor%20Méndez-black?style=flat-square&logo=github)](https://github.com/Calatias7)  
+<div align="center">
 
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=Calatias7&color=brightgreen&style=flat-square)
----
+# Hola, soy Víctor Méndez 👋
 
-## 🎯 Sobre mí  
-Soy **Tecnico y Programador junior** con habilidades en programacion, robotica, análisis de sistemas y análisis de datos.  
-Tengo experiencia en proyectos académicos utilizando tecnologías como **Java**, **python**, **Spring Boot**, **MySQL**, **PostgreSQL** entre otros.  
+**Técnico y programador** · Guatemala 🇬🇹
 
-Mi pasión se centra en el desarrollo de soluciones prácticas y efectivas.  
-Estoy comprometido con el **aprendizaje continuo** y la **aplicación práctica** de mis conocimientos.  
+[![GitHub](https://img.shields.io/badge/GitHub-Calatias7-181717?style=for-the-badge&logo=github)](https://github.com/Calatias7)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Calatias7&color=brightgreen&style=for-the-badge&label=VISITAS)
 
-Objetivo: Convertir mi pasión por la tecnología en soluciones innovadoras que impacten positivamente en el mundo.
-
-En mi tiempo libre, disfruto jugando videojuegos, explorando nuevas tecnologías, y trabajando en proyectos que me permitan unir creatividad con funcionalidad.
-
----
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; text-align: center;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ddd; padding: 10px; background-color: #f4f4f4;">Lenguajes de Programación</th>
-      <th style="border: 1px solid #ddd; padding: 10px; background-color: #f4f4f4;">Frameworks y Tecnologías</th>
-      <th style="border: 1px solid #ddd; padding: 10px; background-color: #f4f4f4;">Bases de Datos</th>
-      <th style="border: 1px solid #ddd; padding: 10px; background-color: #f4f4f4;">Herramientas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <!-- Lenguajes de Programación -->
-      <td style="border: 1px solid #ddd; padding: 15px;">
-        <p><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"> <strong>Java</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"> <strong>JavaScript</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"> <strong>Python</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"> <strong>C++</strong></p>
-      </td>
-      <!-- Frameworks y Tecnologías -->
-      <td style="border: 1px solid #ddd; padding: 15px;">
-        <p><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"> <strong>Spring Boot</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"> <strong>Angular</strong></p>
-      </td>
-      <!-- Bases de Datos -->
-      <td style="border: 1px solid #ddd; padding: 15px;">
-        <p><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"> <strong>PostgreSQL</strong></p>
-        <p><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"> <strong>MySQL</strong></p>
-        <p><img src="https://img.icons8.com/ios-filled/50/0033A0/ibm.png" alt="DB2"> <strong>DB2</strong></p>
-        <p><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"> <strong>Oracle</strong></p>
-      </td>
-       <!-- Herramientas -->
-      <td style="border: 1px solid #ddd; padding: 15px;">
-        <p><img src="https://img.icons8.com/color/48/000000/obsidian.png" alt="Obsidian"> <strong>Obsidian</strong></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
- ---
-
-## 🌍 Idiomas  
-| Idioma    | 
-|-----------|
-| Español   |
-| Inglés    |
+</div>
 
 ---
 
-## 🌟 Características personales  
-🔹 **Desarrollo profesional continuo**: Siempre en busca de nuevos retos y aprendizajes.  
-🔹 **Trabajo en equipo**: Fomentando la colaboración para lograr objetivos comunes.  
-🔹 **Liderazgo**: Capacidad para guiar y motivar a los demás.  
-🔹 **Integridad**: Valores sólidos en cada proyecto.  
-🔹 **Manejo del tiempo**: Organizado y eficiente.  
+## 🎯 Sobre mí
+
+Soy **técnico y programador junior** con habilidades en programación, robótica,
+análisis de sistemas y análisis de datos. Tengo experiencia en proyectos
+académicos con **Java**, **Python**, **PHP**, **Spring Boot**, **MySQL** y
+**PostgreSQL**, entre otras tecnologías.
+
+- 🔭 Estoy terminando mi **proyecto de graduación** en la Universidad Mariano Gálvez
+- 🌱 Aprendiendo visión por computadora e IoT con Raspberry Pi
+- 🎯 Objetivo: convertir mi pasión por la tecnología en soluciones que
+  impacten positivamente en el mundo
 
 ---
 
-## 🎮 Pasatiempos  
-🎯 **Lectura**: Amo explorar nuevos mundos e ideas a través de los libros.  
-👨‍💻 **Programación**: Desarrollo de proyectos personales que me desafían y enseñan.  
-🎮 **Videojuegos**: Pasión por los mundos virtuales y su diseño.  
+## 🚀 Proyecto destacado
+
+### 👁️ Asistente inteligente para personas con discapacidad visual
+
+Proyecto de graduación (PG2): un prototipo con **Raspberry Pi 4 y cámara** que
+detecta objetos en tiempo real con **YOLOv8n** y los anuncia por voz en español,
+administrado desde un **panel web** propio.
+
+- Detección en tiempo real con YOLOv8n optimizado con NCNN para ARM
+- Panel administrativo en PHP (MVC propio) + MySQL: dispositivos, cámara en vivo,
+  reportes en PDF y Excel, bitácora y configuración remota de cada prototipo
+- Control a distancia de audífonos Bluetooth y red Wi-Fi del prototipo
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Calatias7&show_icons=true&theme=radical)
+## 🛠️ Tecnologías
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Calatias7&layout=compact&theme=radical)
+**Lenguajes**
+
+[![Lenguajes](https://skillicons.dev/icons?i=java,py,js,php,cpp,html,css)](https://skillicons.dev)
+
+**Frameworks y librerías**
+
+[![Frameworks](https://skillicons.dev/icons?i=spring,angular,bootstrap,opencv)](https://skillicons.dev)
+
+**Bases de datos**
+
+[![Bases de datos](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM%20DB2-0033A0?style=flat-square&logo=ibm&logoColor=white)
+
+**Herramientas**
+
+[![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,linux,postman,obsidian)](https://skillicons.dev)
 
 ---
 
+## 📊 Estadísticas
 
-> "La programación no es solo un trabajo, es una forma de dar vida a las ideas."
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Calatias7&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calatias7&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
+
+</div>
+
+---
+
+## 🌟 Sobre cómo trabajo
+
+| | |
+|---|---|
+| 📚 **Aprendizaje continuo** | Siempre en busca de nuevos retos |
+| 🤝 **Trabajo en equipo** | Colaboración para lograr objetivos comunes |
+| 🧭 **Liderazgo** | Capacidad para guiar y motivar a los demás |
+| ⚖️ **Integridad** | Valores sólidos en cada proyecto |
+| ⏱️ **Manejo del tiempo** | Organizado y eficiente |
+
+**🌍 Idiomas:** Español (nativo) · Inglés
+
+**🎮 Fuera del código:** lectura, videojuegos y proyectos personales que unen
+creatividad con funcionalidad.
+
+---
+
+<div align="center">
+
+> *"La programación no es solo un trabajo, es una forma de dar vida a las ideas."*
+
+</div>
