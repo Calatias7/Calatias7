@@ -21,7 +21,7 @@ académicos con **Java**, **Python**, **PHP**, **Spring Boot**, **MySQL** y
 **PostgreSQL**, entre otras tecnologías.
 
 - 🔭 Estoy terminando mi **proyecto de graduación** en la Universidad Mariano Gálvez
-- 🌱 Aprendiendo visión por computadora e IoT con Raspberry Pi
+- 🌱 Trabajando con visión por computadora, IoT con Raspberry Pi y despliegue en la nube
 - 🎯 Objetivo: convertir mi pasión por la tecnología en soluciones que
   impacten positivamente en el mundo
 
@@ -29,16 +29,20 @@ académicos con **Java**, **Python**, **PHP**, **Spring Boot**, **MySQL** y
 
 ## 🚀 Proyecto destacado
 
-### 👁️ Asistente inteligente para personas con discapacidad visual
+### 👁️ Faro — asistente inteligente para personas con discapacidad visual
 
-Proyecto de graduación (PG2): un prototipo con **Raspberry Pi 4 y cámara** que
-detecta objetos en tiempo real con **YOLOv8n** y los anuncia por voz en español,
-administrado desde un **panel web** propio.
+Proyecto de graduación (PG2) en la Universidad Mariano Gálvez: un prototipo
+portátil con **Raspberry Pi 4 y cámara** que detecta objetos en tiempo real con
+**YOLOv8n** y los anuncia por voz en español, indicando si están a la izquierda,
+al frente o a la derecha y qué tan cerca. Se administra desde un **panel web
+publicado en la nube**.
 
-- Detección en tiempo real con YOLOv8n optimizado con NCNN para ARM
-- Panel administrativo en PHP (MVC propio) + MySQL: dispositivos, cámara en vivo,
-  reportes en PDF y Excel, bitácora y configuración remota de cada prototipo
-- Control a distancia de audífonos Bluetooth y red Wi-Fi del prototipo
+- 🎯 **91.25 % de precisión** validada contra 5 000 imágenes etiquetadas (COCO)
+- ⚡ **≈ 0.33 s** desde que aparece el objeto hasta el aviso de voz (inferencia de 72 ms con NCNN)
+- 🌐 Panel en PHP 8.3 (MVC propio) + MySQL 8.4: cámara en vivo, estado de cada
+  componente, configuración remota, reportes en PDF y Excel, bitácora y roles
+- 🔐 Verificación en dos pasos, CSP, HSTS, aviso de privacidad y retención de datos
+- ☁️ Publicado con Docker en Render, base de datos en Aiven y correos con Brevo
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,6 +50,10 @@ administrado desde un **panel web** propio.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+[![Ver el panel](https://img.shields.io/badge/Ver%20el%20panel-asistente--visual--panel.onrender.com-7A1E3A?style=for-the-badge)](https://asistente-visual-panel.onrender.com)
 
 ---
 
@@ -67,7 +75,7 @@ administrado desde un **panel web** propio.
 
 **Herramientas**
 
-[![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,linux,postman,obsidian)](https://skillicons.dev)
+[![Herramientas](https://skillicons.dev/icons?i=git,github,vscode,raspberrypi,linux,docker,cloudflare,postman,obsidian)](https://skillicons.dev)
 
 ---
 
